@@ -2,6 +2,12 @@
 # minigame-1
 ## Devlog
 
+# 10/12/25 update
+
+Write a metaphor for how you would describe the relationship between Components, GameObjects, and Scenes to another student. In the first in-class activity, we described Components as being the “building blocks” of GameObjects, and GameObjects as the “building blocks” of Scenes; come up with your own creative way to visualize and describe this relationship without using the phrase “building blocks”.
+- Components are like the ingredients that make up a dish in a recipe, GameObjects are the dishes you create using those ingredients, and Scenes are like a menu showing off all sorts of dishes (game objects).
+
+
 # Player
 - Increase to walk and sprint speed
 
